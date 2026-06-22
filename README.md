@@ -18,6 +18,6 @@ This project uses `uv` for lightning-fast dependency and environment management.
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/Shreek195/fastapi-playground.git
+cd fastapi-playground
 ```
